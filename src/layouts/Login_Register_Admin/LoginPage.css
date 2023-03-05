@@ -1,0 +1,29 @@
+.button .btn,
+.btn:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid rgb(55, 155, 128) !important;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.button .btn:hover,
+.btn:active {
+  text-decoration: none;
+  background-color: rgb(38, 72, 59);
+  color: white !important;
+}
+
+.login_form {
+  padding: 3%;
+  background-color: rgb(227, 227, 227);
+  width: 40%;
+  min-width: 35%;
+  height: 30%;
+  align-self: center;
+  border: 2px solid rgb(157, 142, 142);
+  box-shadow: -1px -1px 20px 0px #cac6c6;
+  border-radius: 2% 2% 2% 2%;
+}

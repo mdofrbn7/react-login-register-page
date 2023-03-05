@@ -1,0 +1,8 @@
+.mainBody_Key{
+    display: flex;
+    flex-direction: row;
+    height: 90vh;
+}
+.dlt{
+    margin-left: 5px;
+}
